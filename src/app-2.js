@@ -4,7 +4,7 @@ import { ClearButton } from './clear-button';
 import { LoadingButton } from './loading-button';
 import { Undef } from './shared';
 
-const clientId = 'STG-R28SM8022K-REGRESSION_MYINFO_17JUL';
+const clientId = 'STG-180000001W-SHAKEDOWN070624';
 const scope = 'uinfin partialuinfin name';
 const purposeId = '42e23206';
 const redirectUri = 'https://thisiszack.com/sp-demo-frontend';
